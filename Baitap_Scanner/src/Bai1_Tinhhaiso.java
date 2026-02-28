@@ -10,6 +10,11 @@ public class Bai1_Tinhhaiso {
         
         System.out.print("Nhập số thứ hai: ");
         double num2 = scanner.nextDouble();
+        double sum = num1 + num2;
+        System.out.printf("Tổng của %.2f và %.2f là: %.2f", num1, num2, sum);
+
+        
+        scanner.close();
 	}
 
 }

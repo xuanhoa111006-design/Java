@@ -17,6 +17,9 @@ public class Bai3_Tinhtiendien {
 	        } else {
 	            tienDien = 50 * 1678 + 50 * 1734 + 100 * 2014 + 100 * 2536 + (soDien - 300) * 2834;
 	        }
+	     System.out.println("Số điện: " + soDien + " kWh");
+	        System.out.println("Tiền điện: " + tienDien + " đồng");
+	        System.out.println("Tiền điện (VND): " + String.format("%,.0f", tienDien) + " đ");
 	}
 
 }

@@ -5,7 +5,7 @@ public class ArrayListCoBan {
 	public static void main(String[] args) {
 		System.out.println(" ARRAYLIST CƠ BẢN - MINH HỌA CÁC PHƯƠNG THỨC \n");
 
-		// 1. Khai báo ArrayList với Generics
+		// 1. Khai báo ArrayList với Generic
 		List<String> danhSachTen = new ArrayList<>();
 		// 2. Thêm phần tử - add()
 		System.out.println(" THÊM PHẦN TỬ ");

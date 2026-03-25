@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="oop sinh vien/src/|Bai2/|Bai1/|Baitap_Scanner/src/|Java_Modern/src/java/|Bai4/|Bai3/|Vidu2_oop_getter/src/vidu2/|Vidu2_oop_getter/src/|Java_Modern/src/|Baitap_Bienvatoantu/src/|ArrayListCoBan/src/|ArraylistOOP/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="ArrayListCoBan/src"/>
+	<classpathentry kind="src" path="ArraylistOOP/src"/>
+	<classpathentry kind="src" path="Bai1"/>
+	<classpathentry kind="src" path="Bai2"/>
+	<classpathentry kind="src" path="Bai3"/>
+	<classpathentry kind="src" path="Bai4"/>
+	<classpathentry kind="src" path="Baitap_Bienvatoantu/src"/>
+	<classpathentry kind="src" path="Baitap_Scanner/src"/>
+	<classpathentry excluding="java/" kind="src" path="Java_Modern/src"/>
+	<classpathentry kind="src" path="Java_Modern/src/java"/>
+	<classpathentry kind="src" path="oop sinh vien/src"/>
+	<classpathentry excluding="vidu2/" kind="src" path="Vidu2_oop_getter/src"/>
+	<classpathentry kind="src" path="Vidu2_oop_getter/src/vidu2"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
